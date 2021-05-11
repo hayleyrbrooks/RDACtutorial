@@ -1,2 +1,2 @@
 # RDACtutorial
-resources for very brief RDAC tutorial for MAC lab (May 2021)
+resources for very brief RDAC tutorial for MAC lab meeting (May 2021)
